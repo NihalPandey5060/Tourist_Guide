@@ -1,0 +1,44 @@
+{
+    "scams": [
+        {
+            "city": "Delhi",
+            "type": "Taxi Scam",
+            "description": "Taxis charging exorbitant rates or taking longer routes",
+            "location": [28.6139, 77.2090],
+            "severity": "High",
+            "prevention": "Use pre-paid taxi booths or ride-sharing apps"
+        },
+        {
+            "city": "Agra",
+            "type": "Taj Mahal Ticket Scam",
+            "description": "Fake guides selling overpriced tickets",
+            "location": [27.1767, 78.0081],
+            "severity": "Medium",
+            "prevention": "Buy tickets only from official counters"
+        },
+        {
+            "city": "Jaipur",
+            "type": "Gem Scam",
+            "description": "Selling fake or overpriced jewelry",
+            "location": [26.9124, 75.7873],
+            "severity": "High",
+            "prevention": "Buy from government-approved shops only"
+        },
+        {
+            "city": "Mumbai",
+            "type": "Hotel Booking Scam",
+            "description": "Fake hotel bookings through unauthorized agents",
+            "location": [19.0760, 72.8777],
+            "severity": "Medium",
+            "prevention": "Book through official hotel websites or trusted platforms"
+        },
+        {
+            "city": "Varanasi",
+            "type": "Boat Ride Scam",
+            "description": "Overcharging for Ganga boat rides",
+            "location": [25.3176, 82.9739],
+            "severity": "Medium",
+            "prevention": "Negotiate price before boarding"
+        }
+    ]
+} 

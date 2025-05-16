@@ -1,0 +1,60 @@
+{
+    "states": [
+        {
+            "name": "Delhi",
+            "cultural_tips": [
+                "Remove shoes before entering temples",
+                "Dress modestly when visiting religious sites",
+                "Bargain while shopping in local markets"
+            ],
+            "local_phrases": [
+                "Namaste - Hello",
+                "Dhanyavaad - Thank you",
+                "Kitna hua? - How much is it?"
+            ],
+            "dos": [
+                "Try street food in Old Delhi",
+                "Visit early morning to avoid crowds",
+                "Use metro for transportation"
+            ],
+            "donts": [
+                "Don't eat street food with water",
+                "Don't accept food from strangers",
+                "Don't take photos without permission"
+            ],
+            "famous_foods": [
+                "Chole Bhature",
+                "Butter Chicken",
+                "Paranthe Wali Gali"
+            ]
+        },
+        {
+            "name": "Rajasthan",
+            "cultural_tips": [
+                "Respect local customs and traditions",
+                "Cover head in religious places",
+                "Ask before taking photos of locals"
+            ],
+            "local_phrases": [
+                "Khamma Ghani - Hello",
+                "Padharo Mhare Des - Welcome to my land",
+                "Swagat hai - Welcome"
+            ],
+            "dos": [
+                "Try traditional Rajasthani thali",
+                "Visit forts early morning",
+                "Experience desert safari"
+            ],
+            "donts": [
+                "Don't wear revealing clothes",
+                "Don't waste water",
+                "Don't touch religious items without permission"
+            ],
+            "famous_foods": [
+                "Dal Baati Churma",
+                "Laal Maas",
+                "Ghewar"
+            ]
+        }
+    ]
+} 

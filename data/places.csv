@@ -1,0 +1,11 @@
+name,type,description,entry_fee,latitude,longitude,popularity,image_url
+Taj Mahal,Historical Monument,"Iconic white marble mausoleum in Agra",1100,27.1751,78.0421,5,https://example.com/taj.jpg
+Red Fort,Historical Fort,"17th-century fort complex in Delhi",500,28.6562,77.2410,4,https://example.com/redfort.jpg
+Gateway of India,Monument,"Historic arch monument in Mumbai",0,18.9217,72.8347,4,https://example.com/gateway.jpg
+Golden Temple,Religious Site,"Sikhism's holiest shrine in Amritsar",0,31.6200,74.8765,5,https://example.com/goldentemple.jpg
+Hawa Mahal,Palace,"Palace of Winds in Jaipur",200,26.9239,75.8267,4,https://example.com/hawamahal.jpg
+Kerala Backwaters,Natural,"Network of canals and lagoons",1000,9.4981,76.3388,5,https://example.com/backwaters.jpg
+Ellora Caves,Historical,"Ancient rock-cut cave temples",600,20.0260,75.1780,4,https://example.com/ellora.jpg
+Mysore Palace,Palace,"Royal palace in Mysore",200,12.3052,76.6552,4,https://example.com/mysore.jpg
+Khajuraho Temples,Historical,"Group of Hindu and Jain temples",250,24.8500,79.9333,4,https://example.com/khajuraho.jpg
+Varanasi Ghats,Religious Site,"Sacred riverfront steps in Varanasi",0,25.3176,82.9739,5,https://example.com/ghats.jpg 
